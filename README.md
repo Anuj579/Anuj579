@@ -1,6 +1,21 @@
 # Hello, I'm Anuj Chaudhary! 👋
 
-### About Me
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+### 👨‍💻 About Me
 I am a passionate web developer with a solid foundation in both front-end and back-end technologies. I enjoy building responsive and user-friendly web applications.
 
 ### 🛠️ Tech Stack
