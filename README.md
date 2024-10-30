@@ -57,6 +57,8 @@ Explore my portfolio to see some of the projects I've worked on: [**anujchaudhar
 
 ---
 
+<p align= center ><img src="https://komarev.com/ghpvc/?username=anuj579&label=Profile%20views&color=0e75b6&style=flat" alt="anuj579" /></p>
+
 
 
 
